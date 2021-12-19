@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRQJA9De+EbXp6Bc0Nuxx6vpp5XjH7+rFr0Wlb9yGJlmhc1XgJQ3ZNmhHJVVwk5BbjCk0NfK+qh+uTnUfs/yWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\Prototype.RealWorld\\Prototype.RealWorld\\Prototype.RealWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

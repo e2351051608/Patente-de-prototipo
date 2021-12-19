@@ -1,0 +1,16 @@
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\Prototype.RealWorld.exe
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\Prototype.RealWorld.deps.json
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\Prototype.RealWorld.runtimeconfig.json
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\Prototype.RealWorld.runtimeconfig.dev.json
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\Prototype.RealWorld.dll
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\ref\Prototype.RealWorld.dll
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\bin\Debug\net5.0\Prototype.RealWorld.pdb
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.AssemblyInfo.cs
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.dll
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\ref\Prototype.RealWorld.dll
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.pdb
+C:\Users\fabia\source\repos\Prototype.RealWorld\Prototype.RealWorld\obj\Debug\net5.0\Prototype.RealWorld.genruntimeconfig.cache
